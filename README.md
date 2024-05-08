@@ -35,7 +35,7 @@ Documentação do Git sobre Clonagem : https://desktop.github.com/
 Configure o Visual Studio:
 Abra o Visual Studio e abra a solução do projeto.
 
-nstalando as Dependências do NuGet:
+Instalando as Dependências do NuGet:
 
 No Gerenciador de Soluções, clique com o botão direito do mouse no projeto e selecione "Gerenciar pacotes NuGet...".
 Na guia "Procurar", digite o nome de cada pacote necessário e instale-o. Aqui estão os pacotes que você provavelmente precisará (considere as dependências listadas anteriormente):
@@ -55,7 +55,7 @@ JSON
   }
 }
 
-ecursos Adicionais:
+Recursos Adicionais:
 
 Documentação do ASP.NET Core: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0
 Documentação do Entity Framework Core: https://learn.microsoft.com/en-us/ef/core/
