@@ -25,10 +25,7 @@ Acessar o Repositório Clonado:
 
 Acesse o diretório clonado usando o prompt de comando ou explorador de arquivos.
 Agora você pode visualizar os arquivos do projeto, fazer alterações e contribuir com o repositório.
-Dicas Adicionais:
 
-Clonar com GitHub Desktop: Se você prefere uma interface gráfica, utilize o aplicativo GitHub Desktop para clonar repositórios.
-Clonar um Repositório Privado: Para clonar um repositório privado, você precisará ter autenticação com suas credenciais do GitHub.
 Solucionar Problemas de Clonagem: Consulte a documentação do Git para obter ajuda com erros de clonagem.
 Recursos Adicionais:
 
